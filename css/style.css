@@ -1,0 +1,46 @@
+
+
+
+/*  header
+nav-bar */
+
+#header #topnav {
+  overflow: hidden;
+  background-color: rgb(244, 244, 244);
+}
+
+#header #topnav a {
+  float: left;
+  color: #141212;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+#welcome-section {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#header #topnav #topnav-right  {
+  float: right;
+}
+
+.projects-grid{
+align-content: space-around;
+}
+/*# sourceMappingURL=style.css.map */
